@@ -1,0 +1,7 @@
+streamlit
+pandas
+pytest
+python-dotenv
+google-genai
+anthropic
+mcp>=1.0,<2.0
